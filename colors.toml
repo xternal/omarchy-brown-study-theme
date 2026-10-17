@@ -1,0 +1,40 @@
+# Brown Study: Pavel's dark brown palette (chosen 12 October 2026 on
+# Ruminator.xyz), tuned for contrast. Body text sits at 13.3:1 on the
+# background and nothing goes above 14:1; every coloured text tone clears
+# 7:1 (WCAG AAA), comments 5.9:1. Warm throughout: amber, not blue, marks
+# the chrome.
+mode = "dark"
+
+accent = "#e2b26f"
+selection = "#4d3f30"
+selection_foreground = "#f3ece1"
+muted = "#a59a88"
+
+background = "#241f1a"
+dark_background = "#221d19"
+darker_background = "#201b17"
+lighter_background = "#39322b"
+
+foreground = "#efe7da"
+dark_foreground = "#c0b5a4"
+light_foreground = "#e2d9cb"
+bright_foreground = "#f3ece1"
+
+red = "#ec9286"
+yellow = "#ead08a"
+orange = "#eda070"
+green = "#a8c98b"
+cyan = "#8fcfc4"
+blue = "#94acf0"
+magenta = "#dba6d4"
+brown = "#b48a5e"
+
+bright_red = "#f0a99f"
+bright_yellow = "#eed9a1"
+bright_green = "#b9d3a0"
+bright_cyan = "#a5d7ce"
+bright_blue = "#a9bcf0"
+bright_magenta = "#e2b8dc"
+
+hyprland_active_border = "rgba(e2b26fee) rgba(eda070ee) 45deg"
+hyprland_inactive_border = "rgba(5c4f42aa)"
