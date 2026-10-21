@@ -55,4 +55,4 @@ To be in a brown study is to be lost in thought. The palette began on [Ruminator
 
 ## Licence
 
-MIT. Made by [Pavel Guzhikov](https://guzh.uk) · [Buy me a coffee](https://ko-fi.com/pavelg)
+MIT. Made by [Pavel Guzhikov](https://guzh.uk) · [Buy me a matcha](https://ko-fi.com/pavelg)
